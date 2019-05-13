@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MuaVe</string>
+
+    <string name="txtTen">Tên</string>
+    <string name="txtSDT">SĐT</string>
+    <string name="editTen"></string>
+    <string name="editSDT"></string>
+
+    <string name="txtThanhVien">Thành Viên</string>
+    <string name="rdVip">Vip</string>
+    <string name="rdThuong">Thường</string>
+
+    <string name="txtLoaiVe">Loại Vé</string>
+    <string name="rdGiuongNam">Giường Nằm</string>
+    <string name="rdGheNgoi">Ghế Ngồi</string>
+
+    <string name="ckDichVu">Dịch Vụ ( Nước Uống, Thức Ăn,...)</string>
+    
+    <string name="txtThanhToan">Thanh Toán</string>
+    <!--<string name="txtLan">Hình Thức</string>-->
+    <!--<string-array name="lan_array">-->
+        <!--<item>VNĐ</item>-->
+        <!--<item>USD</item>-->
+    <!--</string-array>-->
+
+    <string name="btnHuy">Hủy</string>
+    <string name="btnThanhToan">Thanh Toán</string>
+
+    <string name="txtXuatTen">Xuất Tên</string>
+    <string name="txtXuatSDT">Xuất SĐT</string>
+    <string name="txtXuatVip">Xuất Vip</string>
+    <string name="txtXuatThuong">Xuất Thường</string>
+    <string name="txtXuatGiuongNam">Xuất Giường Nằm</string>
+    <string name="txtXuatGheNgoi">Xuất Ghế Ngồi</string>
+    <string name="txtDichVu">Dịch Vụ</string>
+    <string name="txtXuatDichVu">Xuất Dịch Vụ</string>
+</resources>
